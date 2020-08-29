@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086074167333",
+    "firebase_url": "https://yt-tnn-brew-crew.firebaseio.com",
+    "project_id": "yt-tnn-brew-crew",
+    "storage_bucket": "yt-tnn-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086074167333:android:385606418f823909285fcc",
+        "android_client_info": {
+          "package_name": "com.romajc.yt_tnn_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086074167333-rok38taqte681a7ta0fl8l5lu5lks6nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaN4r-C3oGwgssJw676aOjfRXdqUd-RIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086074167333-rok38taqte681a7ta0fl8l5lu5lks6nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
